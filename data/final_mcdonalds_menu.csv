@@ -1,0 +1,81 @@
+item_name,category,price_usd,calories,calories_from_fat,total_fat_g,saturated_fat_g,trans_fat_g,cholesterol_mg,sodium_mg,total_carbs_g,dietary_fiber_g,sugars_g,protein_g,calcium_mg,iron_mg,vitamin_a_iu,vitamin_c_mg,is_vegetarian,is_limited_time,is_nationwide,prep_time_minutes
+Big Mac,Burgers,6.55,530,177,27,8.9,1.6,69,924,45,2.6,10.2,26,15,0.3,29,16,FALSE,FALSE,TRUE,2
+Quarter Pounder with Cheese,Burgers,7.03,515,188,26,8.6,3.8,43,1077,41,2.5,8.8,31,183,2.5,77,8,FALSE,FALSE,TRUE,5
+Cheeseburger,Burgers,6.81,291,113,13,6.1,1.8,48,695,31,2.4,9,16,186,0.5,45,6,FALSE,FALSE,TRUE,4
+Double Cheeseburger,Burgers,5.84,448,156,23,8.4,2.9,7,1133,36,2.6,3.9,26,161,1.2,8,6,FALSE,FALSE,TRUE,4
+McDouble,Burgers,5.05,397,86,21,9.4,1.9,74,906,35,3.1,5.8,23,70,1.5,11,24,FALSE,FALSE,TRUE,9
+Hamburger,Burgers,6.11,257,99,10,4.1,0.8,43,506,29,1.8,6.7,11,232,0,92,28,FALSE,FALSE,TRUE,4
+Bacon McDouble,Burgers,5.49,435,156,22,8,1.1,46,1158,36,5,12.6,26,157,0.7,30,28,FALSE,TRUE,TRUE,4
+Quarter Pounder with Cheese Deluxe,Burgers,6.63,577,126,31,13.1,4.5,69,1345,43,5.4,13.2,30,159,1.2,85,20,FALSE,FALSE,TRUE,10
+Big Mac with Bacon,Burgers,4.91,577,251,33,10.3,1.9,4,1210,44,6,5.3,27,121,0.8,62,6,FALSE,FALSE,FALSE,5
+Double Quarter Pounder with Cheese,Burgers,4.37,783,373,48,22.7,2.7,12,1459,44,2.5,14,48,55,0.7,24,17,FALSE,FALSE,TRUE,10
+McChicken,Chicken & Sandwiches,4.33,410,134,19,8.6,1.4,52,639,37,3.6,6.1,15,205,2.7,21,12,FALSE,FALSE,FALSE,4
+Filet-O-Fish,Chicken & Sandwiches,4.65,386,91,20,6.2,1.6,6,584,40,4.3,10,13,271,0.5,65,2,FALSE,TRUE,TRUE,2
+Crispy Chicken Sandwich,Chicken & Sandwiches,6.16,453,163,23,8.4,1.7,40,1103,47,3.5,10.3,17,153,1.4,96,29,FALSE,FALSE,FALSE,4
+Spicy McChicken,Chicken & Sandwiches,7.26,412,192,22,8.5,2.3,38,690,40,4.4,15.8,13,270,0,70,9,FALSE,FALSE,FALSE,6
+Classic Chicken Sandwich,Chicken & Sandwiches,4.98,426,179,20,8.5,1.5,62,1063,42,3.2,15.6,16,26,0.3,54,26,FALSE,TRUE,TRUE,10
+Artisan Grilled Chicken Sandwich,Chicken & Sandwiches,4.02,352,129,11,5.1,1.2,18,912,39,3.6,4.4,25,186,2.7,5,28,FALSE,FALSE,TRUE,4
+Southern Style Chicken Sandwich,Chicken & Sandwiches,7.23,457,203,23,7.7,3.3,52,1251,45,5.9,16.2,16,127,0.8,100,22,FALSE,FALSE,FALSE,7
+Side Salad,Salads,5.6,17,8,1,0.4,0.1,8,0,2,0.3,0.4,0,260,1.2,68,10,TRUE,FALSE,FALSE,2
+Caesar Salad,Salads,5.21,113,24,7,3.5,0.4,73,298,7,0.5,0.8,6,223,0,68,21,FALSE,FALSE,TRUE,7
+Southwest Salad,Salads,6.32,123,32,8,3.5,0.7,37,249,12,1.3,1.9,7,194,2,22,19,FALSE,FALSE,TRUE,9
+Grilled Chicken Caesar Salad,Salads,5.87,236,107,14,6,1.1,79,700,13,1.1,4.5,21,120,2,28,25,FALSE,TRUE,TRUE,9
+Grilled Chicken Southwest Salad,Salads,5.82,270,63,14,5.3,1.3,18,704,15,1.7,1.5,21,54,2.3,28,5,FALSE,FALSE,TRUE,9
+French Fries (Small),Snacks & Sides,3.2,237,64,11,5.1,1.5,54,199,29,3.9,7.7,4,81,2.2,60,14,TRUE,FALSE,TRUE,3
+French Fries (Medium),Snacks & Sides,4.32,337,158,16,6.5,1,29,307,44,3.9,6.4,4,109,0.2,52,10,TRUE,FALSE,TRUE,8
+French Fries (Large),Snacks & Sides,3.81,481,163,23,10.3,2.4,77,404,64,8.9,15.8,6,139,1.3,3,12,TRUE,FALSE,TRUE,10
+Apple Slices,Snacks & Sides,1.39,17,7,1,0.3,0.1,59,0,6,0.4,1.1,1,167,0.6,41,10,TRUE,FALSE,TRUE,2
+Mozzarella Sticks,Snacks & Sides,4.06,251,69,14,6.4,1.6,3,514,26,3.8,4.2,8,10,1.9,30,4,FALSE,FALSE,FALSE,4
+Chicken McNuggets (4 piece),Snacks & Sides,3.53,163,80,9,2.7,0.7,48,347,10,0.9,3.1,8,38,1.8,80,7,FALSE,FALSE,FALSE,7
+Chicken McNuggets (6 piece),Snacks & Sides,3.26,251,82,16,4.8,1.5,62,501,17,1,6.6,12,235,2.1,55,5,FALSE,FALSE,TRUE,7
+Chicken McNuggets (10 piece),Snacks & Sides,4.44,412,83,24,9.4,2.7,48,868,26,2.2,6.5,22,166,0.5,27,11,FALSE,FALSE,FALSE,3
+French Fries (Kids),Snacks & Sides,1.85,113,56,4,1.6,0.5,57,104,17,2.2,2.2,1,113,1.2,31,9,TRUE,FALSE,TRUE,7
+Egg McMuffin,Breakfast,6.5,308,138,12,5.3,1,68,747,30,4.4,9.2,17,98,0.6,61,8,FALSE,FALSE,TRUE,5
+Sausage McMuffin,Breakfast,4.79,399,192,23,7.1,1.3,37,827,31,3.7,4.3,14,251,0.3,1,18,FALSE,FALSE,TRUE,3
+Sausage McMuffin with Egg,Breakfast,7.1,482,227,31,13.6,2,72,970,27,3.9,3.4,21,127,0.4,97,13,FALSE,FALSE,TRUE,8
+"Bacon, Egg & Cheese Biscuit",Breakfast,4.52,469,126,27,13.2,1.9,27,1226,37,2.8,4.6,19,122,0.5,9,5,FALSE,FALSE,TRUE,9
+Sausage Biscuit,Breakfast,3.35,457,108,30,14.6,2.8,69,1191,36,2.6,5.2,14,136,2.5,9,1,FALSE,FALSE,TRUE,8
+Sausage Biscuit with Egg,Breakfast,7.7,546,115,35,14.7,4.9,41,1265,35,3.9,3.8,21,117,2.9,73,18,FALSE,FALSE,TRUE,9
+Hotcakes,Breakfast,5.58,354,151,10,4.3,1,11,587,57,5.5,12.7,8,164,2,20,10,TRUE,FALSE,TRUE,9
+Hotcakes with Sausage,Breakfast,3.43,518,171,24,9.7,3.6,69,1025,57,5.5,6.6,15,265,1.1,96,15,TRUE,FALSE,TRUE,3
+McMuffin with Egg White,Breakfast,3.13,280,126,9,3.3,0.5,52,700,28,1.7,11.1,18,58,1.4,15,20,FALSE,FALSE,TRUE,5
+Deluxe Breakfast,Breakfast,5.27,654,159,44,19.8,2.8,8,1372,41,3.2,13.8,24,212,1,100,16,FALSE,TRUE,TRUE,7
+Coca-Cola (Small),Beverages,1.63,157,76,0,0,0,73,40,40,3.5,14.3,0,210,0.1,95,15,FALSE,FALSE,TRUE,10
+Coca-Cola (Medium),Beverages,3.22,220,88,0,0,0,18,23,60,5.5,17.8,0,79,0.2,100,8,FALSE,FALSE,TRUE,7
+Coca-Cola (Large),Beverages,2.99,315,67,1,0.3,0.1,36,4,81,12.1,26.2,1,222,2.9,97,20,FALSE,FALSE,TRUE,6
+Diet Coke (Small),Beverages,1.67,3,0,1,0.4,0.1,21,16,0,0,0,0,195,1.9,30,15,FALSE,FALSE,TRUE,9
+Sprite (Small),Beverages,2.41,147,42,0,0,0,54,50,36,4.3,8.5,0,154,0.6,49,27,FALSE,FALSE,TRUE,6
+Fanta Orange (Small),Beverages,1.19,151,65,0,0,0,45,29,44,3.2,6.9,1,128,2,92,24,FALSE,FALSE,TRUE,7
+Minute Maid Apple Juice,Beverages,2.56,92,42,1,0.3,0.1,69,1,25,3.4,5.2,0,256,2.7,21,8,FALSE,FALSE,FALSE,9
+Orange Juice,Beverages,2.93,104,27,1,0.3,0.1,33,0,27,2.8,6.4,0,134,1.8,81,30,FALSE,FALSE,TRUE,9
+Iced Tea,Beverages,2.85,4,1,0,0,0,63,0,2,0.1,0.3,1,275,0.4,58,11,FALSE,FALSE,FALSE,8
+Sweet Tea,Beverages,2.44,125,61,0,0,0,56,0,31,4.5,11.1,1,50,2.9,47,17,FALSE,FALSE,TRUE,3
+Milk (2%),Beverages,2.45,130,59,4,1.8,0.3,16,103,13,1.7,2.1,9,283,0.6,27,26,FALSE,FALSE,TRUE,4
+Chocolate Milk,Beverages,2.25,165,62,4,1.5,0.5,75,170,24,2,3.7,7,26,0.4,53,16,FALSE,TRUE,TRUE,10
+McFlurry with M&M's,Desserts,2.11,639,247,24,10.3,1.3,61,189,93,12.5,21.2,12,55,1.5,56,2,FALSE,FALSE,TRUE,8
+McFlurry with Oreo,Desserts,4.97,626,203,25,9.7,3.2,14,278,88,11.9,26,12,282,2.2,27,13,FALSE,FALSE,TRUE,7
+McFlurry with Chocolate Chip,Desserts,2.87,608,186,26,10.3,1.5,10,209,84,5,10.8,11,190,2.4,71,1,FALSE,FALSE,TRUE,2
+Vanilla Cone,Desserts,4.87,209,100,5,2,0.3,61,86,31,2.2,4.1,5,284,1.1,97,8,TRUE,FALSE,TRUE,2
+Chocolate Shake (Small),Desserts,1.67,529,157,14,6.6,1.5,51,231,86,4.9,27.7,12,15,0.3,67,6,FALSE,FALSE,TRUE,2
+Strawberry Shake (Small),Desserts,1.59,529,140,15,6.5,1.5,56,238,83,7.6,13.7,10,262,0.3,55,3,FALSE,FALSE,TRUE,2
+Vanilla Shake (Small),Desserts,1.74,506,170,15,4.9,1.5,55,220,84,5.7,18,10,117,1.5,85,25,FALSE,FALSE,TRUE,7
+Apple Pie,Desserts,3.42,238,71,10,3.8,1.5,21,77,34,4.4,9.7,2,185,0.3,13,7,TRUE,FALSE,TRUE,4
+Chocolate Chip Cookie,Desserts,1.57,160,68,8,3.8,0.7,18,77,22,1.6,3.2,1,101,0.5,19,24,TRUE,TRUE,FALSE,7
+Sundae (Caramel),Desserts,4.49,340,128,9,3.5,1,35,134,54,5.9,11.1,6,37,0.9,57,1,FALSE,FALSE,TRUE,9
+Sundae (Hot Fudge),Desserts,3.44,321,114,11,4,1.1,19,132,56,8.2,13.2,6,175,2.9,10,16,FALSE,TRUE,TRUE,7
+Latte (Small),McCafé,2.64,139,52,5,2.1,0.6,42,103,17,1,2.2,8,197,0.9,92,27,FALSE,FALSE,FALSE,7
+Latte (Medium),McCafé,3.21,200,61,6,2.7,0.4,71,128,23,2,7.8,12,65,2,94,21,FALSE,TRUE,TRUE,5
+Cappuccino (Small),McCafé,2.57,115,51,3,0.9,0.4,12,59,11,1.1,2.9,6,269,0.1,43,28,FALSE,FALSE,TRUE,9
+Mocha (Small),McCafé,1.8,201,63,7,2.5,0.9,57,89,26,1.9,4.5,9,240,2.7,24,11,FALSE,FALSE,TRUE,4
+Caramel Macchiato (Small),McCafé,3.77,189,91,5,2,0.4,13,101,24,2.9,6.1,6,63,0.9,97,5,FALSE,FALSE,TRUE,9
+Hot Chocolate (Small),McCafé,3.94,200,89,7,2.6,0.6,10,122,30,2.6,3.3,5,50,2.5,83,10,FALSE,FALSE,TRUE,9
+Americano (Small),McCafé,3.26,7,3,0,0,0,77,28,3,0.3,0.4,0,147,0.7,15,1,FALSE,FALSE,TRUE,10
+Iced Coffee (Small),McCafé,1.73,96,44,4,1.4,0.2,45,0,14,1,3.1,2,43,1.6,46,2,FALSE,FALSE,TRUE,8
+Iced Latte (Small),McCafé,4.19,118,40,4,1.3,0.3,80,90,12,0.7,3.3,7,170,0.4,45,17,FALSE,FALSE,TRUE,4
+Iced Mocha (Small),McCafé,1.85,174,69,5,2.3,0.7,40,42,24,3.4,6.1,6,278,1.4,4,24,FALSE,FALSE,FALSE,3
+Caramel Frappé (Small),McCafé,3.73,283,65,10,4.9,1,63,101,45,3.9,15.3,5,136,2.4,93,13,FALSE,FALSE,TRUE,6
+Mocha Frappé (Small),McCafé,2.47,299,135,9,3.5,0.9,45,134,46,5.1,10.6,6,29,0.2,81,12,FALSE,FALSE,TRUE,2
+Happy Meal Cheeseburger,Happy Meal,5.24,457,223,20,9.8,1.1,19,754,48,5.7,18.5,21,190,1.3,9,18,FALSE,FALSE,TRUE,4
+Happy Meal Chicken McNuggets (4 piece),Happy Meal,5.99,422,170,22,7.7,2.1,78,639,35,2.7,13.1,17,251,0.6,17,27,FALSE,FALSE,TRUE,7
+Happy Meal Hamburger,Happy Meal,6.41,417,183,16,5.3,1.9,22,544,47,6.1,11.9,18,62,3,17,7,FALSE,TRUE,TRUE,3
+Happy Meal Apple Slices,Happy Meal,5.12,172,84,9,4.1,1.2,9,96,21,1.3,4.1,3,37,1.3,87,16,TRUE,FALSE,TRUE,10
